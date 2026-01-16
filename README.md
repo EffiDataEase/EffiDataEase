@@ -11,10 +11,6 @@
 - windows版本
 https://wwi.lanzoue.com/EffiDataEase
 
-- mac版本
-https://github.com/EffiDataEase/EffiDataEase/releases/download/2.0.0.10/EffiDataEase.dmg
-
-
 ## 关于报毒说明
 ### 原因：
 1. 因为需要读取密钥，所以不得不去跨进程打开句柄读取内存，只有这一步被认为是危险操作
