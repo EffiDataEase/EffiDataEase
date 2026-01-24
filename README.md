@@ -11,7 +11,7 @@
 - windows版本
 https://wwi.lanzoue.com/EffiDataEase
 - mac版本
-https://github.com/EffiDataEase/EffiDataEase/releases/download/2.0.0.11/EffiDataEase.dmg
+https://github.com/EffiDataEase/EffiDataEase/releases/download/2.0.0.12/EffiDataEase.dmg
 
 ## 关于报毒说明
 ### 原因：
